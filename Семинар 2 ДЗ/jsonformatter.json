@@ -1,0 +1,20 @@
+{
+"name":"file",
+"people":[
+  {
+    "name": "Иванов",
+    "estimation": 5,
+    "lesson": "Математика"
+  },
+  {
+    "name": "Петрова",
+    "estimation": 4,
+    "lesson": "Информатика"
+  },
+  {
+    "name": "Краснов",
+    "estimation": 5,
+    "lesson": "Физика"
+  }
+]
+}
